@@ -11,7 +11,7 @@ import SwiftUI
 struct CardFlipAnimationApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+           ContentView()
         }
     }
 }
